@@ -18,12 +18,17 @@ header {
 main {
     background-color: #F4D8CD;
 }
+
+ul li {
+    display: inline-block;
+    list-style: none;
+}
+
 footer {
 background-color: #F15152;
 }
 
 
 
-ul >li {
-    display inline;
+
 }
