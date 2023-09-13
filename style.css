@@ -5,4 +5,25 @@ img  {
 .hero {
     width: 1000px;
 }
-)
+
+images {
+    background-color: #1E555C;
+}
+
+header {
+    background-color: #1E555C;
+    color: #FFFFFF;
+}
+
+main {
+    background-color: #F4D8CD;
+}
+footer {
+background-color: #F15152;
+}
+
+
+
+ul >li {
+    display inline;
+}
