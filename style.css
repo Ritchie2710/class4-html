@@ -5,30 +5,28 @@ img  {
 .hero {
     width: 1000px;
 }
+.
+r
 
-images {
-    background-color: #1E555C;
-}
-
-header {
-    background-color: #1E555C;
-    color: #FFFFFF;
-}
-
-main {
-    background-color: #F4D8CD;
-}
-
-ul li {
-    display: inline-block;
-    list-style: none;
-}
-
-footer {
-background-color: #F15152;
-}
-
-
-
+    images {
+        background-color: #1E555C;
+    }
+    
+    header {
+        background-color: #1E555C;
+        color: #FFFFFF;
+    }
+    
+    main {
+        background-color: #F4D8CD;
+    }
+    
+    ul li {
+        display: inline-block;
+        list-style: none;
+    }
+    
+    footer {
+    background-color: #F15152;
 
 }
